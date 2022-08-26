@@ -1,5 +1,18 @@
+[![issues](https://img.shields.io/github/issues/luizcsbh/telephone_book)](https://github.com/luizcsbh/telephone_book/issues)
+![forks](https://img.shields.io/github/forks/luizcsbh/telephone_book)
+![stars](https://img.shields.io/github/stars/luizcsbh/telephone_book)
+[![lincença](https://img.shields.io/github/license/luizcsbh/telephone_book)](https://github.com/luizcsbh/telephone_book/blob/master/LICENSE)
+![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/telephone_book)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/luizcsbh/telephone_book/Node.js%20CI
+)](https://github.com/luizcsbh/telephone_book/actions)
+[![commit activity](https://img.shields.io/github/commit-activity/m/luizcsbh/telephone_book)](https://github.com/luizcsbh/telephone_book/commits)
+[![last commit](https://img.shields.io/github/last-commit/luizcsbh/telephone_book)](https://github.com/luizcsbh/telephone_book/commits)
+[![environment](https://img.shields.io/github/deployments/luizcsbh/telephone_book/management-my-finances)](https://github.com/luizcsbh/telephone_book/deployments)
+[![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/telephone_book/badge)](https://www.codefactor.io/repository/github/luizcsbh/telephone_book)
+[![version](https://img.shields.io/github/package-json/v/luizcsbh/telephone_book)](https://github.com/luizcsbh/telephone_book/blob/master/package.json)
+[![twwiter follow](https://img.shields.io/twitter/follow/luizcs?style=social)](https://twitter.com/luizcs)
 
-
+https://github.com/luizcsbh/telephone_book
 ## About Project
 
 Telephone Agenda Project, web application developed with the Laravel framework with PHP 8 and MySQL database
