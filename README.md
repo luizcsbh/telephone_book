@@ -4,7 +4,6 @@
 [![lincença](https://img.shields.io/github/license/luizcsbh/telephone_book)](https://github.com/luizcsbh/telephone_book/blob/master/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/telephone_book)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/luizcsbh/telephone_book/laravel.yml)
-)](https://github.com/luizcsbh/telephone_book/actions)
 [![commit activity](https://img.shields.io/github/commit-activity/m/luizcsbh/telephone_book)](https://github.com/luizcsbh/telephone_book/commits)
 [![last commit](https://img.shields.io/github/last-commit/luizcsbh/telephone_book)](https://github.com/luizcsbh/telephone_book/commits)
 [![environment](https://img.shields.io/github/deployments/luizcsbh/telephone_book/management-my-finances)](https://github.com/luizcsbh/telephone_book/deployments)
