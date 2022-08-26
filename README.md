@@ -43,8 +43,11 @@ composer install
 ```laravel
 php artisan migrate
 ```
-
-5. Initializing the project with the command in the terminal
+5. After you have created the tables in the database, you will need to create a user to access the system. To do so, enter the database management system, select the users table and create a record as shown in the example below:
+```sql
+INSERT INTO `projeto_agenda`.`users` (`name`, `email`, `password`) VALUES ('test', 'test@telephonebook.com', 'test@123');
+```
+6. Initializing the project with the command in the terminal
 
 ```laravel
  php artisan serve
